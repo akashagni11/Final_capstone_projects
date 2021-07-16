@@ -1,7 +1,7 @@
 # Final_capstone_projects
 This is a part of the Final Capstone Project of Udemy Complete Python Bootcamp.
 
-The file includes solution to following:
+The Part 1 includes solution to following:
 
 * Find PI to the Nth Digit: Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
